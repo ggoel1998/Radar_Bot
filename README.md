@@ -15,7 +15,13 @@ Here,  Servo Motor,Ultrasonic Sensor, have their Postive and negative terminal c
 
 # APPLICATIONS
 
-- ## Defence Systems
-- ## Commercial Aviaton
-- ## Under sea rescue operations/wreckage detection 
+- ### Defence Systems
+- ### Commercial Aviaton
+- ### Under sea rescue operations/wreckage detection 
+# CONTRIBUTORS 
+- ### Gautam Goel (Class of 2017-2021,Electronics and Communication engineering )
+- ### Abhishek Tomar (Class of 2017-2021,Electronics and Communication engineering )
+- ### Siddharth Parashar (Class of 2017-2021,Electronics and Communication engineering )
+- ### Ritvik Bhatia (Class of 2017-2021,Electronics and Communication engineering )
+
 
