@@ -11,5 +11,11 @@ On the screen of Laptop.
 ![image](https://user-images.githubusercontent.com/51716609/183061831-863e2d06-a37d-406a-ab92-2ad67b79229e.png)
 
 
-Here, * Servo Motor,Ultrasonic Sensor, have their Postive and negative terminal common to Arduino’s pin having VCC=5v and Ground Trig is connected to Pin 10, Echo to Pin 11, and Servo motor to Pin12
+Here,  Servo Motor,Ultrasonic Sensor, have their Postive and negative terminal common to Arduino’s pin having VCC=5v and Ground Trig is connected to Pin 10, Echo to Pin 11, and Servo motor to Pin12
+
+# APPLICATIONS
+
+- ## Defence Systems
+- ## Commercial Aviaton
+- ## Under sea rescue operations/wreckage detection 
 
